@@ -15,9 +15,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Dumping database structure for qbcore
-CREATE DATABASE IF NOT EXISTS `qbcore` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */;
-USE `qbcore`;
+
 
 -- Dumping structure for table qbcore.apartments
 CREATE TABLE IF NOT EXISTS `apartments` (
